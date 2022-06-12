@@ -1,2 +1,2 @@
-# HikeCard
-Hike Card source code
+# The Plops
+Client
